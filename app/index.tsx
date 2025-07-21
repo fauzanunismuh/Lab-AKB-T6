@@ -52,6 +52,17 @@ export default function Index() {
       caption:
         "Pengemudi diwajibkan untuk terus maju dan tidak berbelok pada titik ini.",
     },
+    {
+      name: "car",
+      label: "Mobil",
+      caption:
+        "Rambu yang menandai jalur prioritas untuk kendaraan roda empat.",
+    },
+    {
+      name: "bus",
+      label: "Jalur Bus",
+      caption: "Jalur ini hanya boleh dilalui oleh kendaraan umum seperti bus.",
+    },
   ];
 
   return (
