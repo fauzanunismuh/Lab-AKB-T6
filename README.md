@@ -1,1 +1,1 @@
-![Preview Aplikasi](./assets/images/hasil.png)
+![Preview Aplikasi](./assets/image/hasil.png)
